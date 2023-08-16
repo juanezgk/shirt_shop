@@ -104,3 +104,12 @@ ul {
     background: #e9eff0;
 }
 
+/*Estilos Redes Sociales*/
+.contact-form .redsoc a {
+    padding: 30px;
+    font-size: 4em;
+    color: #191e35;
+    transition:0.3s ;
+    text-align: center;
+}
+
