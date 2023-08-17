@@ -8,3 +8,13 @@
     width: 1000px; 
     height: 1000px;
 }
+
+.container_card{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    margin-left: 10px;
+}
